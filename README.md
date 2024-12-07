@@ -24,7 +24,7 @@ This repository contains comprehensive implementations of various machine learni
 # Prerequisites 
 Python 3.8+
 
-Required Libraries:
+# Required Libraries:
 
 NumPy
 
